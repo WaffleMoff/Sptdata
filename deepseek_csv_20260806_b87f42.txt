@@ -1,0 +1,11 @@
+Quarter (CY / FY),Artist,Album / Project,Label,WMG Relationship,Notes
+Q3 CY26 / Q4 FY26,Alex Warren,WILDCHILD,Atlantic Records,Recorded Music,Releases Aug 28.
+Q3 CY26 / Q4 FY26,Sombr,I Barely Know Her,Warner Records,Recorded Music,Releases Aug 22.
+Q3 CY26 / Q4 FY26,Ravyn Lenae,Blue Island,Atlantic Records,Recorded Music,Releases Aug 7.
+Q3 CY26 / Q4 FY26,Dan + Shay,Young,Warner Records Nashville,Recorded Music,Releases Aug 21.
+Q3 CY26 / Q4 FY26,Weezer,Weezer,Reprise/Warner Records,Recorded Music,Releases Aug 21.
+Q4 CY26 / Q1 FY27,Tinashe,Popstar,Likely Warner Records,Recorded Music,Releases Sep 25.
+CY26 (unspecified),David Guetta,Not specified (singles),Warner Records,Recorded Music,No album specified.
+CY26 (unspecified),Mike Towers (Myke Towers),Not specified (singles),Warner Music Latina,Recorded Music,Recent single in May.
+CY26 (unspecified),Teddy Swims,Not specified (album/singles),Warner Records,Recorded Music,Recent singles/albums in 2026.
+CY26 (unspecified),Miley Cyrus,TBA,Atlantic Records,Recorded Music,New signing; project underway.
